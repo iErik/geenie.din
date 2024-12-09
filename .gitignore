@@ -1,0 +1,6 @@
+.direnv
+*.bin
+*.exe
+*.out
+*.a
+*.o
