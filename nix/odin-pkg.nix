@@ -17,7 +17,8 @@ in stdenv.mkDerivation rec {
     owner = "odin-lang";
     repo = "Odin";
     rev = version;
-    hash = "7be00355782f29cfba05c63d6dc80649bbbacd37";
+    hash =
+      "sha256-BkPdVzgbEc3S4eSi5TbFKPzkRGkaJTILN/g9o8hfdEw=";
   };
 
   nativeBuildInputs = [
